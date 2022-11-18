@@ -2,10 +2,13 @@
 AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
 Domain: Artificial Intelligence
+
 Team ID: PNT2022TMID01196
+
 Team Lead: Sumithrajothi
 
 Team: Thenmozhi, Subhashini, Sneha
+
 Industry Mentor Name: Sri Tulasi
 
 Faculty Mentor Name: Dhrishya.S
